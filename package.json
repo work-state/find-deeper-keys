@@ -1,0 +1,60 @@
+{
+  "version": "0.0.0",
+  "author": "Ilyass Mabrouk",
+  "license": "MIT",
+  "name": "find-deeper-keys",
+  "description": "Retrieve all values associated with a particular key in a nested object.",
+  "homepage": "https://github.com/work-state/find-deeper-keys",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/work-state/find-deeper-keys.git"
+  },
+  "bugs": {
+    "url": "https://github.com/work-state/find-deeper-keys/issues"
+  },
+  "main": "index.js",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "object",
+    "objects",
+    "nested",
+    "deep",
+    "deeper",
+    "merge",
+    "keys",
+    "key",
+    "values",
+    "value",
+    "properties",
+    "property",
+    "entries",
+    "entry",
+    "strings",
+    "string"
+  ],
+  "verb": {
+    "tasks": [
+      "readme"
+    ],
+    "reflinks": [
+      "verb"
+    ],
+    "lint": {
+      "reflinks": true
+    }
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
