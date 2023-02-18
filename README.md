@@ -34,4 +34,4 @@ findDeeperKeys(obj, target)
 [Ilyass Mabrouk](https://github.com/work-state)
 
 ## License
-[MIT](https://github.com/work-state/find-deeper-keys/blob/master/LICENSE)
+[MIT](https://github.com/work-state/find-deeper-keys/blob/master/LICENSE.md)
